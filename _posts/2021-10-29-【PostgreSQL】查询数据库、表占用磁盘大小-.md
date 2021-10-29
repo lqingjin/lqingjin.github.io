@@ -9,7 +9,7 @@ tags: PostgreSQL 数据库
 ### 统计各数据库占用磁盘大小：
 
 
-```python
+```sql
  SELECT d.datname AS Name,  pg_catalog.pg_get_userbyid(d.datdba) AS Owner,
     CASE WHEN pg_catalog.has_database_privilege(d.datname, 'CONNECT')
         THEN pg_catalog.pg_size_pretty(pg_catalog.pg_database_size(d.datname))
@@ -27,7 +27,7 @@ FROM pg_catalog.pg_database d
 ### 统计数据库中各表占用磁盘大小：
 
 
-```python
+```sql
 SELECT
     table_schema || '.' || table_name AS table_full_name,
     pg_size_pretty(pg_total_relation_size('"' || table_schema || '"."' || table_name || '"')) AS size
