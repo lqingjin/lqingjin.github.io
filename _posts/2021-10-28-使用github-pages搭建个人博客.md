@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '使用github搭建个人博客'
+title: '使用github-pages搭建个人博客'
 date: 2021-10-28
 author: nangfeng-li
 cover: 'https://nanfeng-li.github.io/assets/img/2021/1028/github_blog_home_page.png'
