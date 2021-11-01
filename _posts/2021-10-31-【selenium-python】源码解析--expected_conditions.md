@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '【selenium-python】源码解析--expected_conditions'
+title: 'selenium-python--源码解析--expected_conditions'
 date: 2021-10-31
 author: nangfeng-li
-tags: selenium-python webdriver 
+tags: selenium-python
 ---
 
 > expected_conditions模块包含了一系列预定义的条件来和WebDriverWait使用 <br>

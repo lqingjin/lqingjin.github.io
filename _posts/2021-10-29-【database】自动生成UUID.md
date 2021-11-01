@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '【database】自动生成UUID'
+title: 'database--自动生成UUID'
 date: 2021-10-29
 author: nangfeng-li
-tags: database PostgreSQL
+tags: database
 ---
 
 # PostgreSQL

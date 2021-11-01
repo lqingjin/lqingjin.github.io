@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '【selenium-python】页面加载策略'
+title: 'selenium-python--页面加载策略'
 date: 2021-10-31
 author: nangfeng-li
-tags: selenium-python webdriver
+tags: selenium-python
 ---
 
 > 参考：[webdriver_页面加载策略](https://www.selenium.dev/zh-cn/documentation/webdriver/page_loading_strategy/)

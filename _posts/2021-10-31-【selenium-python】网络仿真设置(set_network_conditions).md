@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '【selenium-python】网络仿真设置(set_network_conditions)'
+title: 'selenium-python--网络仿真设置(set_network_conditions)'
 date: 2021-10-31
 author: nangfeng-li
-tags: selenium-python webdriver
+tags: selenium-python
 ---
 
 > 网络仿真设置
