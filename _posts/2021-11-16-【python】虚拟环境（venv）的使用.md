@@ -6,11 +6,11 @@ author: nangfeng-li
 tags: python
 ---
 
-
+> 激活虚拟环境后，使用pip install 会将对应的包安装到对应的虚拟环境。
+>
+> 虚拟环境互相隔离，互不影响。（可以让每一个python项目单独使用一个环境）
 
 > 参考：[官方文档](https://docs.python.org/zh-cn/3/library/venv.html)
-> 激活虚拟环境后，使用pip install 会将对应的包安装到对应的虚拟环境。
-> 虚拟环境互相隔离，互不影响。（可以让每一个python项目单独使用一个环境）
 
 #### 安装virtualenv
 
@@ -49,9 +49,7 @@ python -m venv -h
 
 #### 退出虚拟环境
 
-shell中输入 "deactivate" 可以退出虚拟环境。 
-Windows：venv\Scripts\deactivate.bat 
-Mac：deactivate
+shell中输入 "deactivate" 可以退出虚拟环境。 Windows：venv\Scripts\deactivate.bat Mac：deactivate
 
 ![](https://nanfeng-li.github.io/assets/img/2021/1116/deactivate_mac.png)
 
