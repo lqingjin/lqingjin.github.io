@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'appium--安装与配置（windows）'
+title: '【appium】安装与配置（windows）'
 date: 2021-10-29
 author: nangfeng-li
 cover: 'https://nanfeng-li.github.io/assets/img/2021/1029/appium.png'

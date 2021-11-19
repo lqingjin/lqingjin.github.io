@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'selenium-python--页面加载策略'
+title: '【selenium-python】页面加载策略'
 date: 2021-10-31
 author: nangfeng-li
 tags: selenium-python

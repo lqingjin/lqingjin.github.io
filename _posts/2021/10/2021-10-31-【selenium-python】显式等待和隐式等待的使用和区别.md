@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'selenium-python--显式等待和隐式等待的使用和区别'
+title: '【selenium-python】显式等待和隐式等待的使用和区别'
 date: 2021-10-31
 author: nangfeng-li
 tags: selenium-python

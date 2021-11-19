@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: 'python--虚拟环境（venv）的使用' 
+title: '【python】虚拟环境（venv）的使用' 
 date: 2021-11-16 
 author: nangfeng-li 
 tags: python

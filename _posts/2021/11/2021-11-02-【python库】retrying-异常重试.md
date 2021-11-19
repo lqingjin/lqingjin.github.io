@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'python库--retrying-异常重试'
+title: '【python库】retrying-异常重试'
 date: 2021-11-02
 author: nangfeng-li
 tags: python库

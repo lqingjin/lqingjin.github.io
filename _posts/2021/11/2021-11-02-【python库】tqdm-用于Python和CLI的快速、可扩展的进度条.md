@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'python库--tqdm-用于Python和CLI的快速、可扩展的进度条'
+title: '【python库】tqdm-用于Python和CLI的快速、可扩展的进度条'
 date: 2021-11-02
 author: nangfeng-li
 tags: python库

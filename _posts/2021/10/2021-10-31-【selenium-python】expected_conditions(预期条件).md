@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'selenium-python--源码解析--expected_conditions'
+title: '【selenium-python】expected_conditions(预期条件)'
 date: 2021-10-31
 author: nangfeng-li
 tags: selenium-python
