@@ -61,7 +61,7 @@ finally:
 
 设置为 eager 时, Selenium WebDriver保持等待, 直至返回 [DOMContentLoaded](https://developer.mozilla.org/zh-CN/docs/Web/API/Document/DOMContentLoaded_event) 事件.
 
-```python
+```
 chrome_options.page_load_strategy = 'eager'
 # or
 desired_capabilities['pageLoadStrategy'] = 'eager'
@@ -73,7 +73,7 @@ desired_capabilities['pageLoadStrategy'] = 'eager'
 
 设置为 none 时, Selenium WebDriver仅等待至初始页面下载完成.
 
-```python
+```
 chrome_options.page_load_strategy = 'none'
 # or
 desired_capabilities['pageLoadStrategy'] = 'none'
