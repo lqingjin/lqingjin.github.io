@@ -18,6 +18,7 @@ chrome_options.add_argument('lang=zh_CN.UTF-8')  # 设置默认编码为utf-8
 chrome_options.add_argument('--window-size=1920,1080') # 设置窗口大小
 chrome_options.add_argument('--start-maximized')  # 设置浏览器最大化运行
 chrome_options.add_argument('--headless')  # 无头模式
+chrome_options.headless = True  # 无头模式
 chrome_options.add_experimental_option('useAutomationExtension', False)  # 取消chrome受自动控制提示
 chrome_options.add_experimental_option("excludeSwitches", ['enable-automation'])  # 取消chrome受自动控制提示
 # 模拟手机启动
