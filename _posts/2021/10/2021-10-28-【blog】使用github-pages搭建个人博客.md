@@ -4,7 +4,7 @@ title: '【blog】使用github-pages搭建个人博客'
 date: 2021-10-28
 author: nangfeng-li
 cover: 'https://nanfeng-li.github.io/assets/img/2021/1028/github_blog_home_page.png'
-tags: github blog
+tags: blog
 ---
 
 > 以此博客记录学习过程及相关学习笔记
