@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: '【python】内置函数整理' 
+title: '【python】内置函数--isinstance' 
 date: 2021-11-19 
 author: nangfeng-li 
 tags: python
