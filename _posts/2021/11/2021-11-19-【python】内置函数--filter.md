@@ -6,12 +6,8 @@ author: nangfeng-li
 tags: python
 ---
 
-## filter()
-
-- 文档描述
-
-        根据函数计算传入的每一个可迭代对象的元素进行判断，返回True或False，将返回为True的元素放到新列表中。
-        如果函数为None，则返回为True的元素
+> 根据函数计算传入的每一个可迭代对象的元素进行判断，返回True或False，将返回为True的元素放到新列表中。
+> 如果函数为None，则返回为True的元素
 
 - 语法
 

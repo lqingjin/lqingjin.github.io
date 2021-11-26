@@ -6,16 +6,12 @@ author: nangfeng-li
 tags: python
 ---
 
-## isinstance()
-
-- 文档描述
-
-        判断一个对象是否是一个已知的类型，类似 type()。
-  
-        isinstance() 与 type() 区别：
-        type() 不会认为子类是一种父类类型，不考虑继承关系。
-        isinstance() 会认为子类是一种父类类型，考虑继承关系。
-        如果要判断两个类型是否相同推荐使用 isinstance()。
+>  判断一个对象是否是一个已知的类型，类似 type()。<br>
+> 
+>  isinstance() 与 type() 区别：<br>
+>  type() 不会认为子类是一种父类类型，不考虑继承关系。<br>
+>  isinstance() 会认为子类是一种父类类型，考虑继承关系。<br>
+>  如果要判断两个类型是否相同推荐使用 isinstance()。
 
 - 语法
 
