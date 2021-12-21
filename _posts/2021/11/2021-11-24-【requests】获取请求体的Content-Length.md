@@ -19,4 +19,13 @@ print(len(data))
 print(data.__len__())
 print(len(data.encode()))
 print(len(data.encode('gbk')))
+print(memoryview(data.encode()).nbytes) # builtins内置方法
+```
+output
+```
+13
+13
+27
+20
+27
 ```
