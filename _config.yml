@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'nanfeng-li'
-description: '讲文明，树新风。'
-keyword: '讲文明，树新风。'
+title: '云中锦书'
+description: '记录生活美好瞬间'
+keyword: 'Vlog，记录生活。'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -16,18 +16,20 @@ baseurl: ''
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags.html'
+  首页: '/'
+  标签: '/tags.html'
+  关于:'/'
+
 
 # Footer
 footer:
-  since: 2021
+  since: 2023
 
 # Author 配置博主信息
-author: 'nanfeng—li'
+author: '云中锦书'
 nickname: ''
-bio: '讲文明，树新风。'
-avatar: '/assets/img/tanjirou.png'
+bio: '记录每一段感动的过往'
+avatar: '/assets/img/qingjin.png'
 
 # Search
 search: true
@@ -37,8 +39,8 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus: true
+  disqus_url: 'https://lqingjin.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
@@ -56,10 +58,10 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: ''
+  weibo: 'https://www.weibo.com/u/6698065807'
   juejin: ''
   instagram: ''
-  github: '//github.com/nanfeng-li'
+  github: '//github.com/lqingjin'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
