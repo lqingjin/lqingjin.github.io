@@ -18,7 +18,7 @@ baseurl: ''
 nav:
   首页: '/'
   标签: '/tags.html'
-  关于: '/'
+  关于: 'https://lqingjin.github.io/cv/home'
 
 
 # Footer
