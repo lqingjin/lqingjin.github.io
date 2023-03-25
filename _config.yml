@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: '云中锦书'
-description: '记录生活美好瞬间'
+description: '记录工作生活的点点滴滴'
 keyword: 'Vlog，记录生活。'
 url: '' # your host
 
@@ -17,8 +17,8 @@ baseurl: ''
 # Navigation links
 nav:
   首页: '/'
-  标签: '/tags.html'
-  关于: '/cv/'
+  分类标签: '/tags.html'
+  个人简介: '/cv/'
 
 
 # Footer
@@ -28,7 +28,7 @@ footer:
 # Author 配置博主信息
 author: '云中锦书'
 nickname: ''
-bio: '记录每一段感动的过往'
+bio: '记录工作生活，分享成长经验'
 avatar: '/assets/img/qingjin.png'
 
 # Search
@@ -46,7 +46,7 @@ comments:
 mathjax: true
 
 # Share
-social-share: true
+social-share: false
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
@@ -59,8 +59,8 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: 'https://www.weibo.com/u/6698065807'
-  juejin: ''
-  instagram: ''
+  juejin: 'https://juejin.cn/user/3116435409737880'
+  # instagram: ''
   github: '//github.com/lqingjin'
 
 # Tags 设置标签
